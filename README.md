@@ -122,7 +122,7 @@
         </div>
         <div class="card">
             <h2>MiG-27</h2>
-            <img src="mig27.jpg" alt="MiG-27">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/1200px-MiG-27_from_No.18_Squad,_Kalaikunda.jpg?raw=true" alt="MiG-27">
             <p><strong>Date de premier vol:</strong> 20 août 1970</p>
             <p><strong>Génération:</strong> 3e génération</p>
             <p><strong>Coût de production:</strong> N/A</p>
