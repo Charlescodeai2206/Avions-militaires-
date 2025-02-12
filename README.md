@@ -82,7 +82,7 @@
         </div>
         <div class="card">
             <h2>B-2 Spirit</h2>
-            <img src="b2.jpg" alt="B-2 Spirit">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/B-2_Spirit_original.jpg?raw=true" alt="B-2 Spirit">
             <p><strong>Date de premier vol:</strong> 17 juillet 1989</p>
             <p><strong>Génération:</strong> 4e génération</p>
             <p><strong>Coût de production:</strong> 737 millions USD</p>
