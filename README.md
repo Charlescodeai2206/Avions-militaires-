@@ -112,7 +112,7 @@
         </div>
         <div class="card">
             <h2>MiG-21</h2>
-            <img src="mig21.jpg" alt="MiG-21">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/1200px-Croatian_MiG-21_(cropped).jpg?raw=true" alt="MiG-21">
             <p><strong>Date de premier vol:</strong> 14 février 1956</p>
             <p><strong>Génération:</strong> 2e génération</p>
             <p><strong>Coût de production:</strong> N/A</p>
