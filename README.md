@@ -52,7 +52,7 @@
         </div>
         <div class="card">
             <h2>F-15 Eagle</h2>
-            <img src="f15.jpg" alt="F-15 Eagle">
+            <img src="https://raw.githubusercontent.com/Charlescodeai2206/Avions-militaires-/37b00d3765c24c9746f3e4b68e629c269a2f111e/Capture%20d'%C3%A9cran%202025-02-12%20151237.png" alt="F-15 Eagle">
             <p><strong>Date de premier vol:</strong> 27 juillet 1972</p>
             <p><strong>Génération:</strong> 4e génération</p>
             <p><strong>Coût de production:</strong> 29,9 millions USD</p>
