@@ -42,7 +42,7 @@
     <div class="container">
         <div class="card">
             <h2>F-22 Raptor</h2>
-            <img src="![Lockheed Martin F-22 Raptor]alt="F-22 Raptor">
+            <img src="f22.jpg"alt="F-22 Raptor">
             <p><strong>Date de premier vol:</strong> 29 septembre 1990</p>
             <p><strong>Génération:</strong> 5e génération</p>
             <p><strong>Coût de production:</strong> 150 millions USD</p>
