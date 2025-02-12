@@ -132,7 +132,7 @@
         </div>
         <div class="card">
             <h2>MiG-29</h2>
-            <img src="mig29.jpg" alt="MiG-29">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/mig29.jpg?raw=true" alt="MiG-29">
             <p><strong>Date de premier vol:</strong> 6 octobre 1977</p>
             <p><strong>Génération:</strong> 4e génération</p>
             <p><strong>Coût de production:</strong> N/A</p>
