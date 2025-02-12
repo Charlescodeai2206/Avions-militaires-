@@ -141,7 +141,7 @@
             <p><strong>Principales caractéristiques:</strong> Manœuvrabilité, avionique avancée</p>
     <div class="card">
     <h2>Rafale</h2>
-    <img src="rafale.jpg" alt="Rafale">
+    <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/rafale.jpg?raw=true" alt="Rafale">
     <p><strong>Date de premier vol:</strong> 4 juillet 1986</p>
     <p><strong>Génération:</strong> 4.5e génération</p>
     <p><strong>Coût de production:</strong> 115 millions USD</p>
