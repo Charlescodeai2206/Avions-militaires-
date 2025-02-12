@@ -72,7 +72,7 @@
         </div>
         <div class="card">
             <h2>F-35 Lightning II</h2>
-            <img src="f35.jpg" alt="F-35 Lightning II">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/F-35.jpg?raw=true" alt="F-35 Lightning II">
             <p><strong>Date de premier vol:</strong> 15 décembre 2006</p>
             <p><strong>Génération:</strong> 5e génération</p>
             <p><strong>Coût de production:</strong> 94 millions USD</p>
