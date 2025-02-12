@@ -102,7 +102,7 @@
         </div>
         <div class="card">
             <h2>MiG-15</h2>
-            <img src="mig15.jpg" alt="MiG-15">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/mig%2015.jpg?raw=true" alt="MiG-15">
             <p><strong>Date de premier vol:</strong> 30 décembre 1947</p>
             <p><strong>Génération:</strong> 1ère génération</p>
             <p><strong>Coût de production:</strong> N/A</p>
