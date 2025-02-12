@@ -139,7 +139,13 @@
             <p><strong>Présence dans les armées:</strong> VVS, autres</p>
             <p><strong>Vitesse de pointe:</strong> Mach 2.25</p>
             <p><strong>Principales caractéristiques:</strong> Manœuvrabilité, avionique avancée</p>
-        </div>
-        <div class="card">
-            <h2>Rafale</h2>
-            <img src="rafale.jpg" alt="Rafale
+    <div class="card">
+    <h2>Rafale</h2>
+    <img src="rafale.jpg" alt="Rafale">
+    <p><strong>Date de premier vol:</strong> 4 juillet 1986</p>
+    <p><strong>Génération:</strong> 4.5e génération</p>
+    <p><strong>Coût de production:</strong> 115 millions USD</p>
+    <p><strong>Présence dans les armées:</strong> Armée de l'Air et de l'Espace, Marine Nationale, IAF, autres</p>
+    <p><strong>Vitesse de pointe:</strong> Mach 1.8</p>
+    <p><strong>Principales caractéristiques:</strong> Polyvalence, avionique avancée, capacité de supercroisière</p>
+</div>
