@@ -92,7 +92,7 @@
         </div>
         <div class="card">
             <h2>A-10 Thunderbolt II</h2>
-            <img src="a10.jpg" alt="A-10 Thunderbolt II">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/Fairchild_Republic_A-10_Thunderbolt_II_-_32156159151.jpg?raw=true" alt="A-10 Thunderbolt II">
             <p><strong>Date de premier vol:</strong> 10 mai 1972</p>
             <p><strong>Génération:</strong> 4e génération</p>
             <p><strong>Coût de production:</strong> 11,8 millions USD</p>
