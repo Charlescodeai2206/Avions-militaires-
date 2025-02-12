@@ -62,7 +62,7 @@
         </div>
         <div class="card">
             <h2>F-16 Fighting Falcon</h2>
-            <img src="f16.jpg" alt="F-16 Fighting Falcon">
+            <img src="https://github.com/Charlescodeai2206/Avions-militaires-/blob/main/200317-F-AI558-9202-scaled.jpg?raw=true" alt="F-16 Fighting Falcon">
             <p><strong>Date de premier vol:</strong> 20 janvier 1974</p>
             <p><strong>Génération:</strong> 4e génération</p>
             <p><strong>Coût de production:</strong> 18,8 millions USD</p>
